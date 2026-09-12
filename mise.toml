@@ -1,2 +1,9 @@
+# SPDX-FileCopyrightText: 2026 Ali Sajid Imami
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 [env]
 _.file = ".env"
+
+[tools]
+"pipx:reuse" = { version = "6.2.0", extras = ["charset-normalizer"] }

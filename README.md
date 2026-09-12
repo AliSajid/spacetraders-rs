@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Ali Sajid Imami
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # Spacetraders-rs | An attempt at playing Spacetraders.io using a Rust backend
 
 This repository is an attempt to use [Rust](https://rust-lang.org) to create
