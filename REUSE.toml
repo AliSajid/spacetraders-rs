@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2026 Ali Sajid Imami
 #
 # SPDX-License-Identifier: CC0-1.0
+#:schema https://reuse.software/reuse-toml-v1.schema.json
 
 version = 1
 
