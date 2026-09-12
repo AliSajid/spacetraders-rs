@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2026 Ali Sajid Imami
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
+#:schema https://mise.jdx.dev/schema/mise.json
 
 [env]
 _.file = ".env"
